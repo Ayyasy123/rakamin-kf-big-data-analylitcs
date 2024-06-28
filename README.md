@@ -20,4 +20,7 @@ Dataset yang disediakan terdiri dari tabel-tabel berikut:
 
 ## **Visualization**
 Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here](https://lookerstudio.google.com/reporting/58feb65d-29de-4c33-9c7d-7df3ced5b5e9).
-   
+<p align="center">
+    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://github.com/Ayyasy123/rakamin-kf-big-data-analylitcs/assets/53820239/ca66f94e-ecfa-4a7d-bbbb-e197276a9134"> </kbd> <br>
+    Sales Report Dashboard PT. Kimia Farma
+</p>
