@@ -19,5 +19,5 @@ Dataset yang disediakan terdiri dari tabel-tabel berikut:
 <br>
 
 ## **Visualization**
-Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here]([https://datastudio.google.com/reporting/7613d646-8f1b-479d-b69b-a60ef1236936](https://lookerstudio.google.com/reporting/58feb65d-29de-4c33-9c7d-7df3ced5b5e9)).
+Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here](https://lookerstudio.google.com/reporting/58feb65d-29de-4c33-9c7d-7df3ced5b5e9).
    
