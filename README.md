@@ -1,8 +1,6 @@
 # **Sales Report PT Kimia Farma**
 
 ## **Introduction**
-A **Virtual Internship Experience Big Data Analytics in Kimia Farma** facilitated by [Rakamin Academy](https://www.rakamin.com/). In this project, as a **Big Data Analyst Intern** from **Kimia Farma** I learned about **data warehouse**, **data lake**, and **data mart**. I also sharpening my skill in **SQL**. At the end of the project, I asked to build a **sales dashboard** using **Google Data Studio** with the following **real case dataset** from **Kimia Farma**.
-
 Pengalaman Magang Virtual Big Data Analytics di Kimia Farma yang difasilitasi oleh [Rakamin Academy](https://www.rakamin.com/). Dalam program ini, sebagai Intern Analis Big Data dari Kimia Farma, saya belajar tentang **data warehouse**, **data lake**, dan **data mart**. Saya juga mengasah keterampilan saya dalam **SQL** dan cara memvisualisasikan data yang baik. Di akhir proyek, saya diminta untuk membuat tabel analisa dari dengan **BigQuery** membangun dashboard penjualan menggunakan **Looker Studio** dengan dataset kasus nyata dari Kimia Farma.
 
 ## **Objective**
