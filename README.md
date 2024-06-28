@@ -10,13 +10,14 @@ Pengalaman Magang Virtual Big Data Analytics di Kimia Farma yang difasilitasi ol
 2. Buat tabel analisa
 3. Create Dashboard Performance Analytics Kimia FarmaBusiness Year 2020-2023
 
-## **Created Data Mart**
-1. Firstly, I queried the **3 dataset** to be 1 table as **base table** and determine the **primary key** by concatenate the `id_invoice` and `id_barang`. 
-2. After created base table, I create the **aggregate table** which sum of the `jumlah_barang` multiple `harga`. Exported the **aggregate table** to **CSV** for data source in **Google Data Studio**.
+**Dataset** <br>
+Dataset yang disediakan terdiri dari tabel-tabel berikut:
+- kf_final_transaction
+- kf_inventory
+- kf_kantor_cabang
+- kf_product
+<br>
 
 ## **Visualization**
-Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here](https://datastudio.google.com/reporting/7613d646-8f1b-479d-b69b-a60ef1236936).
-   <p align="center">
-    <img width="958" alt="Screen Shot 2022-08-02 at 17 14 27" src="https://user-images.githubusercontent.com/103989278/182351168-cad7aac5-3a70-42d7-b05e-b0d09e73bcf2.png"><br>
-    Figure 1: Sales Reports PT Kimia Farma 
-   </p>
+Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here]([https://datastudio.google.com/reporting/7613d646-8f1b-479d-b69b-a60ef1236936](https://lookerstudio.google.com/reporting/58feb65d-29de-4c33-9c7d-7df3ced5b5e9)).
+   
