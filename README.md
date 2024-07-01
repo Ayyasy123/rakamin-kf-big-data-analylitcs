@@ -81,6 +81,7 @@ LEFT JOIN `kimia_farma.kf_product` AS c
 ## **Visualization**
 [Lihat pada halaman Looker Data Studio](https://lookerstudio.google.com/reporting/58feb65d-29de-4c33-9c7d-7df3ced5b5e9).
 <p align="center">
-    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://github.com/Ayyasy123/rakamin-kf-big-data-analylitcs/assets/53820239/d610b193-3e51-4332-bf11-5493523c389e"> </kbd> <br>
+    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://github.com/Ayyasy123/rakamin-kf-big-data-analylitcs/assets/53820239/dceed13a-d809-4668-a1ae-3ef269f76954"> </kbd> <br>
     Sales Report Dashboard PT. Kimia Farma
 </p>
+
